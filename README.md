@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Guednia7/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/guednia7/post-install-config)
-  - [osTicket: Ticket-Create EndUsers Examples](https://github.com/guednia7/create-endusers)
+  - [osTicket: Ticket-Create End Users Examples](https://github.com/guednia7/create-endusers)
   - [osTicket: Ticket-Create New Tickets Examples](https://github.com/guednia7/create-new-tickets)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/guednia7/configure-ad)
