@@ -10,7 +10,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/guednia7/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/guednia7/azure-network-protocols)
-
+  - [Active Directory-Resetting Passwords](https://github.com/guednia7/password)
+  - [Creating Virtual Machines using Microsoft Azure](https://github.com/guednia7/azure-virtual-machines)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -19,3 +20,4 @@
 
 [instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/
+[twitter]: https://twitter.com/
